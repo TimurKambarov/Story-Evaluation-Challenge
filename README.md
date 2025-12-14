@@ -77,10 +77,6 @@ The notebook generates two main visualizations:
 - Ollama server with LLaMA 3.1 70b, Qwen 3 30b, and DeepSeek R1 70b models
 - Dependencies: pandas, matplotlib, ollama
 
-## License
-
-[Choose appropriate license]
-
 ## Acknowledgments
 
 Test stories sourced from classic literature and contemporary examples. Full references available in the documentation.
